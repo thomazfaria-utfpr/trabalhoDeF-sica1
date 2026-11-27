@@ -15,6 +15,7 @@ Compilar (Linux / MSYS2 / MinGW):
 Executar (todos os argumentos são opcionais):
   ./colisoes [N] [largura] [altura] [vel_media] [dt] [raio]
   ./colisoes 30 900 600 200 0.002 15
+  use R para reiniciar e esc para sair do programa.
  
    Unidades: pixels e segundos. Todas as bolas têm massa 1,
    e as colisões são perfeitamente elásticas.
